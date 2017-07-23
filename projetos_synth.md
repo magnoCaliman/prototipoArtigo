@@ -1,6 +1,8 @@
 #Projeto #1 - Modulação em anel
 
-{%youtube%}51TJsgDWS8k{%endyoutube%}
+<!-- {%youtube%}51TJsgDWS8k{%endyoutube%} -->
+
+{% youtube src="https://www.youtube.com/watch?v=51TJsgDWS8k" %}{% endyoutube %}
 
 <!-- ### Construção de um sintetizador via algoritmo de síntese aditiva. -->
 
