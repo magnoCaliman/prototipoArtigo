@@ -3,8 +3,8 @@
 <!-- {%youtube%}51TJsgDWS8k{%endyoutube%} -->
 
 {% youtube src="https://www.youtube.com/watch?v=51TJsgDWS8k" %}{% endyoutube %}
-link zuado...
-<!-- ### Construção de um sintetizador via algoritmo de síntese aditiva. -->
+
+Caso player acima não funcione, acessar o video [nesse link](https://www.youtube.com/watch?v=51TJsgDWS8k)
 
 ---
 Na área de teoria do áudio, esse projeto lida com os seguintes tópicos:
